@@ -23,7 +23,7 @@ chips_data.close
 #chips_data_write.write(chips)
 #chips_data_write.close
 
-#Pick cards
+#Pick the cards
 '''
 player_cards = random.choice(cards)+random.choice(cards)
 bot_visable_card = random.choice(cards)
