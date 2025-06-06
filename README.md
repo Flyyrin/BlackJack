@@ -1,2 +1,4 @@
-# BlackJack
-A blackjack card game i made as a personal project.
+# Python Blackjack
+
+## Project Description
+Console based blackjack game made as a personal project.
